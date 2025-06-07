@@ -5,7 +5,7 @@ Welcome to my GitHub! I’m a **Software Engineer** and **Marine Corps veteran**
 ### 🔍 About Me
 - 👨‍💻 I’m focused on **software engineering**, with a deep interest in **AI/ML**, **full-stack development**, and **cloud computing**.
 - 🎓 I’m currently honing my skills with technologies like **Python**, **Java**, **JavaScript**, **C++**, **Django**, **React**, **TensorFlow**, **Keras**, and more.
-- 🚀 I'm actively working as a **Generative AI Engineer** at **Reality AI** and have gained valuable experience as a **Full-Stack Developer** intern at **Connectyfi** and **Radical AI**.
+- 🚀 I worked as a **Generative AI Engineer** at **Reality AI** and have gained valuable experience as a **Full-Stack Developer** intern at **Connectyfi** and **Radical AI**.
 - 🌱 I'm always eager to collaborate and contribute to innovative projects, especially those that leverage **AI/ML** to solve real-world problems.
 
 ### 🔧 Technologies & Tools I Use
@@ -27,7 +27,18 @@ Welcome to my GitHub! I’m a **Software Engineer** and **Marine Corps veteran**
 - Strong background in **team collaboration** and **cross-functional teamwork**
 - Extensive experience in **performance optimization**, **cybersecurity awareness**, and **quality assurance**
 
+### 🎥 YouTube: Builds by Nick  
+I recently launched a [YouTube channel](https://youtube.com/@buildsbynick?si=4oMrOm2zbUUVx7Jp) to document my coding journey, break down beginner-friendly projects, and share development tips in real time. Whether you’re new to programming or looking for walkthroughs on web apps, UI/UX, and full-stack projects, you’ll find hands-on tutorials that explain the “why” behind the code.
+
+🔧 **Featured Content:**
+- Building interactive web apps with **HTML, CSS, and JavaScript**
+- Full project breakdowns with **detailed explanations** and **clean, commented code**
+- Real-world **software engineering projects** and coding challenges
+
+📺 [Subscribe and follow along →](https://youtube.com/@buildsbynick?si=4oMrOm2zbUUVx7Jp)
+
 ### 🌍 Let’s Connect!
 - 💬 Feel free to reach out via [nick.wyrwas@outlook.com](mailto:nick.wyrwas@outlook.com)
 - 📫 Check out my LinkedIn: [Nicholas Wyrwas](https://www.linkedin.com/in/nicholas-wyrwas/)
 - 📍 Explore my GitHub: [@nwyrwas](https://github.com/nwyrwas)
+- 📍 Checkout my Youtube Channel: https://youtube.com/@buildsbynick?si=4oMrOm2zbUUVx7Jp
