@@ -3,8 +3,9 @@
 Welcome to my GitHub! I’m a **Software Engineering Student** and **Marine Corps veteran** currently pursuing a **Bachelor's Degree in Computer Science - Software Engineering** at **Southern New Hampshire University**. With a strong problem-solving mindset and a disciplined work ethic, I specialize in full-stack development, AI, and machine learning, driven by a passion for tackling complex challenges.
 
 ### 🔍 About Me
-- 👨‍💻 I’m focused on **software engineering**, with a deep interest in **AI/ML**, **full-stack development**, and **cloud computing**.
+- 👨‍💻 I’m focused on **software engineering**, with a deep interest in **AI/ML**, **full-stack development**, **data-analytics** and **cloud computing**.
 - 🎓 I’m currently honing my skills with technologies like **Python**, **Java**, **JavaScript**, **C++**, **Django**, **React**, **TensorFlow**, **Keras**, and more.
+- 📝 I am certified by **Meta** in **Front and Back End Developing** and I am currently working on getting certified in **Microsoft's AI & ML Engineering Professional Certificate** and **Google's Advanced Data Analytics Professional Certificate**!
 - 🚀 I worked as a **Generative AI Engineer** at **Reality AI** and have gained valuable experience as a **Full-Stack Developer** intern at **Connectyfi** and **Radical AI**.
 - 🌱 I'm always eager to collaborate and contribute to innovative projects, especially those that leverage **AI/ML** to solve real-world problems.
 
@@ -41,4 +42,4 @@ I recently launched a [YouTube channel](https://youtube.com/@buildsbynick?si=4oM
 - 💬 Feel free to reach out via [nick.wyrwas@outlook.com](mailto:nick.wyrwas@outlook.com)
 - 📫 Check out my LinkedIn: [Nicholas Wyrwas](https://www.linkedin.com/in/nicholas-wyrwas/)
 - 📍 Explore my GitHub: [@nwyrwas](https://github.com/nwyrwas)
-- 📍 Checkout my Youtube Channel: https://youtube.com/@buildsbynick?si=4oMrOm2zbUUVx7Jp
+- 📍 Checkout my Youtube Channel: [@BuildsByNick](https://youtube.com/@buildsbynick?si=4oMrOm2zbUUVx7Jp)
