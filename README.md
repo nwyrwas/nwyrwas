@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nick Wyrwas (@nwyrwas)
 
-Welcome to my GitHub! I’m a **Software Engineer** and **Marine Corps veteran** currently pursuing a **Bachelor's Degree in Computer Science - Software Engineering** at **Southern New Hampshire University**. With a strong problem-solving mindset and a disciplined work ethic, I specialize in full-stack development, AI, and machine learning, driven by a passion for tackling complex challenges.
+Welcome to my GitHub! I’m a **Software Engineering Student** and **Marine Corps veteran** currently pursuing a **Bachelor's Degree in Computer Science - Software Engineering** at **Southern New Hampshire University**. With a strong problem-solving mindset and a disciplined work ethic, I specialize in full-stack development, AI, and machine learning, driven by a passion for tackling complex challenges.
 
 ### 🔍 About Me
 - 👨‍💻 I’m focused on **software engineering**, with a deep interest in **AI/ML**, **full-stack development**, and **cloud computing**.
