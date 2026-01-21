@@ -5,7 +5,6 @@ Welcome to my GitHub! I’m a **Software Engineering Student** and **Marine Corp
 ### 🔍 About Me
 - 👨‍💻 I’m focused on **software engineering**, with a deep interest in **AI/ML**, **full-stack development**, **data-analytics** and **cloud computing**.
 - 🎓 I’m currently honing my skills with technologies like **Python**, **Java**, **JavaScript**, **C++**, **Django**, **React**, **TensorFlow**, **Keras**, and more.
-- 📝 I am certified by **Meta** in **Front and Back End Developing** and I am currently working on getting certified in **Microsoft's AI & ML Engineering Professional Certificate** and **Google's Advanced Data Analytics Professional Certificate**!
 - 🚀 I worked as a **Generative AI Engineer** at **Reality AI** and have gained valuable experience as a **Full-Stack Developer** intern at **Connectyfi** and **Radical AI**.
 - 🌱 I'm always eager to collaborate and contribute to innovative projects, especially those that leverage **AI/ML** to solve real-world problems.
 
