@@ -1,44 +1,89 @@
 # 👋 Hi, I'm Nick Wyrwas (@nwyrwas)
 
-Welcome to my GitHub! I’m a **Software Engineering Student** and **Marine Corps veteran** currently pursuing a **Bachelor's Degree in Computer Science - Software Engineering** at **Southern New Hampshire University**. With a strong problem-solving mindset and a disciplined work ethic, I specialize in full-stack development, AI, and machine learning, driven by a passion for tackling complex challenges.
+**Software Engineer | Marine Corps Veteran | AI/ML Enthusiast**
 
-### 🔍 About Me
-- 👨‍💻 I’m focused on **software engineering**, with a deep interest in **AI/ML**, **full-stack development**, **data-analytics** and **cloud computing**.
-- 🎓 I’m currently honing my skills with technologies like **Python**, **Java**, **JavaScript**, **C++**, **Django**, **React**, **TensorFlow**, **Keras**, and more.
-- 🚀 I worked as a **Generative AI Engineer** at **Reality AI** and have gained valuable experience as a **Full-Stack Developer** intern at **Connectyfi** and **Radical AI**.
-- 🌱 I'm always eager to collaborate and contribute to innovative projects, especially those that leverage **AI/ML** to solve real-world problems.
+Recent **Computer Science graduate** from **Southern New Hampshire University** (Honor Roll, Dean's List) with hands-on experience building production-ready applications. From leading infantry operations in the Marine Corps to FDA-regulated manufacturing at Stryker Medical to software engineering—I bring discipline, problem-solving, and a relentless drive to build impactful technology.
 
-### 🔧 Technologies & Tools I Use
-- **Languages & Frameworks**: C++, Java, Python, JavaScript, React, Django, Node.js, TensorFlow, Keras, OpenGL
-- **Web Development**: HTML, CSS, REST APIs, Full-Stack Integration, Firebase, Google Cloud, Bootstrap
-- **Mobile Development**: Android, Kotlin, Mobile UI/UX Design
-- **AI & ML**: Supervised & Unsupervised Learning, Deep Learning, Neural Networks, Model Optimization, TensorFlow, Keras
-- **DevOps & Tools**: Git, Docker, Postman, CI/CD, Agile, TDD, NPM, Bash
-- **Databases**: SQL, MongoDB, Firebase
+## 🚀 Featured Projects
 
-### 💼 Professional Experience
-- **Generative AI Engineer at Reality AI**: Building AI-driven educational tools using LangChain, LlamaIndex, and OpenAI embeddings.
-- **Full-Stack Developer at Connectyfi**: Developing scalable web apps using Django and React, optimizing RESTful APIs, and collaborating in agile teams.
-- **Software Developer Intern at Radical AI**: Developing AI-driven career coaching platforms, enhancing user interaction, and maintaining technical documentation.
-- **Marine Corps Veteran**: Honed leadership, problem-solving, and teamwork skills in high-stakes environments.
+### [Terminal Dashboard](https://github.com/nwyrwas/terminal-dashboard) - Python TUI Developer Productivity Tool
+Interactive terminal dashboard with system monitoring, Pomodoro timer, and task management
+- **Stack**: Python 3.10+, Textual, Rich, psutil, Pydantic
+- **Features**: Modular plugin architecture, 36 passing pytest unit tests, cross-platform support
+- **Impact**: Streamlines developer workflow with real-time system insights and productivity tracking
 
-### 🛠 Leadership & Methodologies
-- Project management, SDLC, Six Sigma, and continuous improvement practices
-- Strong background in **team collaboration** and **cross-functional teamwork**
-- Extensive experience in **performance optimization**, **cybersecurity awareness**, and **quality assurance**
+### [Neural-OS](https://github.com/nwyrwas/neural-os) - AI-Powered Notes Application
+Full-stack app with semantic search and context-aware responses using RAG pipelines
+- **Stack**: React, FastAPI, OpenAI API, Pinecone, Supabase, PostgreSQL
+- **Technical**: OpenAI embeddings, vector database integration, Google/GitHub OAuth
+- **Innovation**: Intelligent note retrieval through semantic understanding
 
-### 🎥 YouTube: Builds by Nick  
-I recently launched a [YouTube channel](https://youtube.com/@buildsbynick?si=4oMrOm2zbUUVx7Jp) to document my coding journey, break down beginner-friendly projects, and share development tips in real time. Whether you’re new to programming or looking for walkthroughs on web apps, UI/UX, and full-stack projects, you’ll find hands-on tutorials that explain the “why” behind the code.
+### [LedgerIQ](https://github.com/nwyrwas/LedgerIq) - Personal Finance Manager with AI Categorization
+Next.js 14 finance application with AI-powered transaction categorization
+- **Stack**: Next.js 14, TypeScript, Prisma, PostgreSQL, OpenAI GPT-4, Tailwind CSS
+- **Features**: Real-time budget tracking, Recharts visualizations, 96.7% TypeScript coverage
+- **Impact**: Automates financial tracking with intelligent transaction analysis
 
-🔧 **Featured Content:**
-- Building interactive web apps with **HTML, CSS, and JavaScript**
-- Full project breakdowns with **detailed explanations** and **clean, commented code**
-- Real-world **software engineering projects** and coding challenges
+## 💼 Professional Experience
 
-📺 [Subscribe and follow along →](https://youtube.com/@buildsbynick?si=4oMrOm2zbUUVx7Jp)
+**Autocare Technician** @ Walmart *(June 2025 - Present)*  
+Vehicle maintenance, diagnostics, safety inspections, and customer service
 
-### 🌍 Let’s Connect!
-- 💬 Feel free to reach out via [nick.wyrwas@outlook.com](mailto:nick.wyrwas@outlook.com)
-- 📫 Check out my LinkedIn: [Nicholas Wyrwas](https://www.linkedin.com/in/nicholas-wyrwas/)
-- 📍 Explore my GitHub: [@nwyrwas](https://github.com/nwyrwas)
-- 📍 Checkout my Youtube Channel: [@BuildsByNick](https://youtube.com/@buildsbynick?si=4oMrOm2zbUUVx7Jp)
+**Generative AI Engineer (Internship)** @ Reality AI *(Dec 2024 - Apr 2025)*  
+Built Marvel AI (Teaching Assistant) and Sky AI (Career Coach) using LangChain, LlamaIndex, RAG workflows, OpenAI embeddings, and Redis Vector Search. Deployed on Google Cloud Run with LangSmith optimization.
+
+**Full-Stack Developer (Internship)** @ Connectify *(Oct 2024 - Dec 2024)*  
+Developed scalable web applications with Django/React/Vue, built RESTful APIs, implemented CI/CD pipelines, and collaborated in agile teams for production-ready solutions.
+
+**Software Developer (Full-Stack) (Internship)** @ Radical AI *(Apr 2024 - Aug 2024)*  
+Built AI career companion platform with React/Python, integrated third-party APIs, performed unit/integration testing, and maintained technical documentation.
+
+**Manufacturing Process Leader - Training Department** @ Stryker Medical *(Dec 2019 - Jun 2023)*  
+Led FDA/ISO 13485 compliant training programs, managed Document Change Orders (DCOs), audited production floors, and mentored teams in regulated medical device manufacturing.
+
+**Infantry Rifleman** @ United States Marine Corps *(Aug 2013 - Dec 2016)*  
+Ground combat operations, reconnaissance missions, weapons systems operation, and team leadership in high-stakes environments.
+
+## 🔧 Technical Skills
+
+**Languages**: Python, JavaScript/TypeScript, Java, C++  
+**Frontend**: React, Next.js, Vue.js, HTML/CSS, Tailwind  
+**Backend**: Django, FastAPI, Node.js, Express, RESTful APIs  
+**AI/ML**: LangChain, LlamaIndex, OpenAI API, RAG Pipelines, Vector Search (Pinecone, Redis), Embeddings  
+**Cloud & DevOps**: Docker, CI/CD, Google Cloud Platform (Cloud Run, Log Explorer), AWS (learning)  
+**Databases**: PostgreSQL, Supabase, MongoDB, Firebase  
+**Tools & Practices**: Git, pytest, Agile/Scrum, TDD/QA, Technical Documentation, Code Review  
+**Specialized**: Secure Coding, Cybersecurity Awareness, FDA/ISO Compliance, Performance Optimization
+
+## 📚 Currently
+
+- 🎯 Actively seeking **Software Engineering** roles where I can contribute to production systems
+- 💻 Sharpening algorithmic problem-solving through daily **LeetCode** practice
+- 🛠️ Building projects that demonstrate real-world AI/ML and full-stack development
+- 📺 Creating technical content on [YouTube (@BuildsByNick)](https://youtube.com/@buildsbynick?si=4oMrOm2zbUUVx7Jp)
+
+## 🎓 Education
+
+**BS Computer Science - Software Engineering**  
+Southern New Hampshire University *(Graduated: November 2025)*  
+- Honor Roll: Spring 2023, Fall 2023, Spring 2024  
+- Dean's List: Fall 2024, Spring 2025, Fall 2025
+
+**Relevant Coursework**: Software Development Lifecycle, Software Security, Reverse Engineering, Data Structures & Algorithms, Full Stack Development, Mobile Architecture, System Analysis & Design, Database Environments
+
+## 🎥 YouTube: Builds by Nick
+
+I document my coding journey, share project walkthroughs, and break down technical concepts through hands-on tutorials. From full-stack web apps to AI integrations, I focus on explaining the *why* behind the code.
+
+📺 [Subscribe for weekly coding content →](https://youtube.com/@buildsbynick?si=4oMrOm2zbUUVx7Jp)
+
+## 🌍 Let's Connect
+
+- 🌐 **Portfolio**: [nwyrwas.github.io](https://portfolio-vert-five-92.vercel.app/)
+- 💼 **LinkedIn**: [Nicholas Wyrwas](https://www.linkedin.com/in/nicholas-wyrwas/)
+- 📧 **Email**: [nick.wyrwas@outlook.com](mailto:nick.wyrwas@outlook.com)
+- 📺 **YouTube**: [@BuildsByNick](https://youtube.com/@buildsbynick?si=4oMrOm2zbUUVx7Jp)
+
+---
+
+*Open to software engineering opportunities • Always learning • Building in public*
