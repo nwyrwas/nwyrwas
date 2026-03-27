@@ -6,23 +6,26 @@ Recent **Computer Science graduate** from **Southern New Hampshire University** 
 
 ## 🚀 Featured Projects
 
-### [Terminal Dashboard](https://github.com/nwyrwas/terminal-dashboard) - Python TUI Developer Productivity Tool
-Interactive terminal dashboard with system monitoring, Pomodoro timer, and task management
-- **Stack**: Python 3.10+, Textual, Rich, psutil, Pydantic
-- **Features**: Modular plugin architecture, 36 passing pytest unit tests, cross-platform support
-- **Impact**: Streamlines developer workflow with real-time system insights and productivity tracking
+### [PulseBoard](https://github.com/nwyrwas/PulseBoard) - Real-Time Data Pipeline & Live Dashboard
+End-to-end data pipeline that ingests trending stories from Hacker News and NewsAPI, transforms and ranks them with dbt, orchestrates hourly runs with Airflow, and serves everything through a live Next.js dashboard
+- **Stack**: Python 3.13, PostgreSQL, dbt, Apache Airflow, FastAPI, Next.js 14, Tailwind CSS, SWR
+- **Pipeline**: Automated hourly ingestion with idempotent upserts, staging/marts transformation layers, and data quality tests
+- **Features**: REST API with Swagger docs, real-time dashboard with auto-refresh, trending topic ranking with volume visualization
+- **Impact**: Demonstrates full data engineering lifecycle — ingestion, storage, transformation, orchestration, API, and frontend
+
+### [Personal Dashboard](https://github.com/nwyrwas/personal-dashboard) - Real-Time Multi-Source Dashboard
+Next.js dashboard that aggregates live data from multiple APIs into a single interface with an animated city skyline background
+- **Stack**: Next.js 16, TypeScript, React 19, Tailwind CSS 4, Vercel
+- **Features**: Live weather via OpenWeatherMap, GitHub stats, Hacker News feed, site status monitor, time-based greetings
+- **Architecture**: Server-side API routes for credential protection, response caching, parallel health checks with Promise.all()
+- **Impact**: Production-deployed dashboard showcasing modern frontend patterns and multi-API integration
 
 ### [Neural-OS](https://github.com/nwyrwas/neural-os) - AI-Powered Notes Application
 Full-stack app with semantic search and context-aware responses using RAG pipelines
 - **Stack**: React, FastAPI, OpenAI API, Pinecone, Supabase, PostgreSQL
-- **Technical**: OpenAI embeddings, vector database integration, Google/GitHub OAuth
-- **Innovation**: Intelligent note retrieval through semantic understanding
-
-### [LedgerIQ](https://github.com/nwyrwas/LedgerIq) - Personal Finance Manager with AI Categorization
-Next.js 14 finance application with AI-powered transaction categorization
-- **Stack**: Next.js 14, TypeScript, Prisma, PostgreSQL, OpenAI GPT-4, Tailwind CSS
-- **Features**: Real-time budget tracking, Recharts visualizations, 96.7% TypeScript coverage
-- **Impact**: Automates financial tracking with intelligent transaction analysis
+- **Technical**: OpenAI embeddings, vector database integration, Google/GitHub OAuth, RAG-powered answers with GPT-4o-mini
+- **Architecture**: Notes → Supabase → OpenAI embeddings → Pinecone vector DB → Semantic search & AI-synthesized answers
+- **Innovation**: Intelligent note retrieval through semantic understanding, not just keyword matching
 
 ## 💼 Professional Experience
 
@@ -49,6 +52,7 @@ Ground combat operations, reconnaissance missions, weapons systems operation, an
 **Languages**: Python, JavaScript/TypeScript, Java, C++  
 **Frontend**: React, Next.js, Vue.js, HTML/CSS, Tailwind  
 **Backend**: Django, FastAPI, Node.js, Express, RESTful APIs  
+**Data Engineering**: dbt, Apache Airflow, PostgreSQL, ETL/ELT Pipelines, SQL Transformations  
 **AI/ML**: LangChain, LlamaIndex, OpenAI API, RAG Pipelines, Vector Search (Pinecone, Redis), Embeddings  
 **Cloud & DevOps**: Docker, CI/CD, Google Cloud Platform (Cloud Run, Log Explorer), AWS (learning)  
 **Databases**: PostgreSQL, Supabase, MongoDB, Firebase  
