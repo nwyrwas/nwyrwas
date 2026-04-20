@@ -44,19 +44,19 @@ Recent **Computer Science graduate** from **Southern New Hampshire University** 
 
 ## 🚀 Featured Projects
 
+### [UptraceIQ](https://github.com/nwyrwas/UptraceIQ) — System Health Monitoring Platform
+Distributed system health monitor with async concurrent checks, intelligent alerting, and a real-time React dashboard.
+- **Stack**: Java 21, Spring Boot 3, CompletableFuture, AWS SNS, React, PostgreSQL
+- **Concurrency**: Parallel health checks via CompletableFuture — non-blocking, timeout-aware, fault-isolated per service
+- **Alerting**: Multi-channel AWS SNS notifications triggered on threshold breaches with configurable severity levels
+- **Dashboard**: React frontend with live status indicators, historical uptime graphs, and incident timeline
+
 ### [PulseBoard](https://github.com/nwyrwas/PulseBoard) — Real-Time Data Pipeline & Live Dashboard
 End-to-end data pipeline that ingests trending stories from Hacker News and NewsAPI, transforms and ranks them with dbt, orchestrates hourly runs with Airflow, and serves everything through a live Next.js dashboard.
 - **Stack**: Python 3.13, PostgreSQL, dbt, Apache Airflow, FastAPI, Next.js 14, Tailwind CSS, SWR
 - **Pipeline**: Automated hourly ingestion with idempotent upserts, staging/marts transformation layers, 6 passing data quality tests
 - **API**: FastAPI REST API with 3 endpoints — GET /trending, GET /hn/stories, GET /news/articles — with auto-generated Swagger docs
 - **Frontend**: Responsive Next.js dashboard with auto-refresh, proportional volume bars, loading and error states per component
-
-### [Personal Dashboard](https://github.com/nwyrwas/personal-dashboard) — Real-Time Multi-Source Dashboard
-Next.js dashboard that aggregates live data from multiple APIs into a single interface with an animated city skyline background.
-- **Stack**: Next.js 16, TypeScript, React 19, Tailwind CSS 4, Vercel
-- **Features**: Live weather, GitHub profile stats, Hacker News feed, site uptime monitor, hydration-safe real-time clock
-- **Architecture**: Server-side API routes for credential protection, response caching with revalidate, parallel health checks with Promise.all()
-- **Live Demo**: [personal-dashboard-khaki.vercel.app](https://personal-dashboard-khaki.vercel.app/)
 
 ### [Neural-OS](https://github.com/nwyrwas/neural-os) — AI-Powered Notes Application
 Full-stack app with semantic search and context-aware responses using RAG pipelines.
@@ -99,8 +99,6 @@ Ground combat operations, reconnaissance missions, weapons systems operation, an
 
 | Status | Project | Description |
 |--------|---------|-------------|
-| 🔧 Completing | [**PulseBoard**](https://github.com/nwyrwas/PulseBoard) | Kafka streaming, Docker, and GitHub Actions CI/CD |
-| 🏗️ Building | [**UptraceIQ**](https://github.com/nwyrwas/UptraceIQ) | System health monitor — Java Spring Boot, AWS SNS, React |
 | 📐 Planning | [**NexaMetrics**](https://github.com/nwyrwas/NexaMetrics) | High-volume data ingestion — Java, S3 data lake, Lambda |
 | 🛰️ Planning | [**TelemIO**](https://github.com/nwyrwas/TelemIO) | Real-time IoT telemetry dashboard — Java, AWS Kinesis, React |
 
